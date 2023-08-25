@@ -110,9 +110,11 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 ### Autores
 
 Nome: Wanderly Robson da Silva
+
 Nome: Fernanda Alves Moreira
 
 GitHub: https://github.com/wanderlyrobson
+
 GitHub: https://github.com/nandapand4
 ---
 ### Licença
