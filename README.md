@@ -113,9 +113,9 @@ Nome: Wanderly Robson da Silva
 
 Nome: Fernanda Alves Moreira
 
-GitHub: https://github.com/wanderlyrobson
+- GitHub: https://github.com/wanderlyrobson
+- GitHub: https://github.com/nandapand4
 
-GitHub: https://github.com/nandapand4
 
 ---
 ### Licença
