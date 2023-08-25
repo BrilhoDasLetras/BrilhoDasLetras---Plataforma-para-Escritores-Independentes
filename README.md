@@ -1,4 +1,5 @@
-![Logo](https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=400)
+
+![Logo](img/logo.jpg)
 
 # Sistema de Gerenciamento Financeiro Pessoal
 
@@ -6,15 +7,6 @@
 
 Este é um projeto de um sistema de gerenciamento financeiro pessoal desenvolvido em Java, seguindo o padrão MVC. O sistema permite que os usuários, calculem seus saldos e gerem relatórios financeiros.
 
----
-Badges
-Licença
-Último Release
-Build
-Cobertura de Testes
-Issues Abertas
-Estrelas
-Forks
 ---
 ### Tabela de Conteúdos
 
@@ -61,7 +53,6 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 ### Autores
 
 Nome: Wanderly Robson da Silva
-
 GitHub: https://github.com/wanderlyrobson
 
 ---
