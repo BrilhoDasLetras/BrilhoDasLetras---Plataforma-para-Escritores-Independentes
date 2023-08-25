@@ -7,6 +7,15 @@
 Este é um projeto de um sistema de gerenciamento financeiro pessoal desenvolvido em Java, seguindo o padrão MVC. O sistema permite que os usuários, calculem seus saldos e gerem relatórios financeiros.
 
 ---
+Badges
+Licença
+Último Release
+Build
+Cobertura de Testes
+Issues Abertas
+Estrelas
+Forks
+---
 ### Tabela de Conteúdos
 
 - Features
