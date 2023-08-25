@@ -1,4 +1,4 @@
-![Logo](img/[logo.jpg](https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=400))
+![Logo](https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=400)
 
 # Sistema de Gerenciamento Financeiro Pessoal
 
