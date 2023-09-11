@@ -99,7 +99,7 @@ Para rodar o aplicativo:
 - **Spring Security**: Para gerenciamento de autenticação e autorização de usuários.
 - **Spring Data JPA**: Para simplificar as operações de acesso ao banco de dados usando o Spring.
 - **JUnit ou TestNG**: Frameworks para escrever e executar testes unitários automatizados.
-- **Log4j ou Logback**: Bibliotecas para gerar logs e rastrear atividades da aplicação.
+- **Logback**: Bibliotecas para gerar logs e rastrear atividades da aplicação.
 
 ---
 ### Contribuição
