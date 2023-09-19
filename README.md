@@ -88,7 +88,7 @@ Para rodar o aplicativo:
 ---
 ### Tecnologias utilizadas
 - **Linguagem**: Java
-- **Framework MVC**: JavaFX
+- **Framework MVC**: Java Web
 - **Banco de Dados**: H2 Database (pode ser substituído por outro banco de dados SQL)
 - **JDBC**: Bibliotecas JDBC (Java Database Connectivity) para a comunicação entre a aplicação Java e o banco de dados.
 - **JavaScript**: Para adicionar interatividade às páginas, validação de formulários e possíveis recursos avançados.
