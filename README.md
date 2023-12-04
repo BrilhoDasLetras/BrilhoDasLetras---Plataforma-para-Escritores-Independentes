@@ -107,11 +107,16 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 ### Autores
 
 Wanderly Robson da Silva
-
 Fernanda Alves Moreira
+Hércules Gomes
+Adrian Gabriel de Barros
+Charles HRA
 
 - GitHub: https://github.com/wanderlyrobson
 - GitHub: https://github.com/nandapand4
+- GitHub: https://github.com/herculesgomes
+- GitHub: https://github.com/adriangbv
+- GitHub: https://github.com/Charleshra
 
 
 ---
